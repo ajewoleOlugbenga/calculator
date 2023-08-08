@@ -1,3 +1,6 @@
+# Check it on browser
+[calculator](https://calculator-ashy-ten.vercel.app/)
+
 this a an awesome calculator App created with React.js 
 and it's hard coded by me Ajewole Olugbenga.
 
